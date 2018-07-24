@@ -1,5 +1,7 @@
 # Keras zero knowledge AI for gomoku and tic-tac-toe
 
+Blogpost for the algorithm: http://blog.teamleadnet.com/2018/07/zero-knowledge-ai-for-tic-tac-toe-and.html
+
 ## Prerequisites
 
 Keras with a valid backend (eg, tensorflow)
